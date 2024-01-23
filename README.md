@@ -16,4 +16,4 @@ To use the Naive Bayes Classifier, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/naive-bayes-classifier.git
+   git clone https://github.com/FalseShepherd/naive-bayes-classifier.git
